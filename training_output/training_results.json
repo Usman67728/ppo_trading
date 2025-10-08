@@ -1,0 +1,41 @@
+{
+    "timestamp": "2025-10-08T10:22:57.907469",
+    "data_info": {
+        "train_samples": 68894,
+        "val_samples": 14763,
+        "test_samples": 14763
+    },
+    "evaluation_metrics": {
+        "mean_reward": 0.0,
+        "std_reward": 0.0,
+        "mean_length": 14762.0,
+        "mean_return": 0.0,
+        "mean_sharpe": 0,
+        "episode_rewards": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "episode_returns": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "episode_sharpe_ratios": []
+    },
+    "model_path": "training_output/models/final_model.zip"
+}

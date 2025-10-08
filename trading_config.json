@@ -1,0 +1,45 @@
+{
+    "account": 5040990393,
+    "password": "!zKpOhD3",
+    "server": "MetaQuotes-Demo",
+    "symbol": "XAUUSD",
+    "lot_size": 0.2,
+    "max_risk_per_trade": 0.02,
+    "max_daily_trades": 10,
+    "max_position_size": 0.1,
+    "stop_loss_pips": 20,
+    "take_profit_pips": 40,
+    "max_drawdown": 0.05,
+    "model_path": "best_trading_model.zip",
+    "confidence_threshold": 0.7,
+    "trading_start_hour": 0,
+    "trading_end_hour": 23,
+    "trading_fees": {
+        "commission_per_lot": 5.0,
+        "spread_pips": 2.0,
+        "slippage_pips": 1.0,
+        "swap_long": 0.0,
+        "swap_short": 0.0
+    },
+    "margin_trading": {
+        "leverage": 100,
+        "margin_requirement": 0.01,
+        "margin_call_level": 0.5,
+        "stop_out_level": 0.3
+    },
+    "data_fetching": {
+        "update_interval_seconds": 60,
+        "real_time_data": true,
+        "tick_data": true,
+        "auto_update": true
+    },
+    "risk_management": {
+        "daily_loss_limit_percent": 7.0,
+        "total_loss_limit_percent": 15.0,
+        "cooling_period_hours": 24,
+        "emergency_stop_loss_percent": 4.0,
+        "max_daily_trades": 30,
+        "max_concurrent_trades": 3,
+        "observation_period_minutes": 1
+    }
+}

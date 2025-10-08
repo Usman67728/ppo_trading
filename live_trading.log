@@ -1,0 +1,1620 @@
+2025-10-08 09:50:13,484 - ERROR - Symbol XAUUSD not found
+2025-10-08 09:50:14,881 - INFO - Trained model loaded from training_output/models/final_model.zip
+2025-10-08 09:50:14,882 - WARNING - No data received from MT5
+2025-10-08 09:50:14,883 - INFO - Live trading started
+2025-10-08 09:50:24,884 - WARNING - No data received from MT5
+2025-10-08 09:50:34,884 - WARNING - No data received from MT5
+2025-10-08 09:50:44,885 - WARNING - No data received from MT5
+2025-10-08 09:50:54,885 - WARNING - No data received from MT5
+2025-10-08 09:51:04,886 - WARNING - No data received from MT5
+2025-10-08 09:51:14,887 - WARNING - No data received from MT5
+2025-10-08 09:52:44,285 - INFO - MT5 initialized successfully
+2025-10-08 09:52:44,288 - INFO - Account: 259185230
+2025-10-08 09:52:44,288 - INFO - Balance: 10000.0
+2025-10-08 09:52:44,288 - INFO - Equity: 10000.0
+2025-10-08 09:52:44,288 - INFO - Margin: 0.0
+2025-10-08 09:52:44,288 - INFO - Free margin: 10000.0
+2025-10-08 09:52:46,638 - INFO - Trained model loaded from training_output/models/final_model.zip
+2025-10-08 09:52:48,819 - INFO - Live trading started
+2025-10-08 09:52:48,829 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 09:52:58,835 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 09:53:08,842 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 09:53:18,851 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 09:53:28,859 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 09:53:38,865 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 09:53:48,866 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 09:53:58,870 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 09:54:08,873 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 09:54:18,877 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 09:54:28,888 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 09:54:33,067 - INFO - MT5 initialized successfully
+2025-10-08 09:54:33,067 - INFO - Account: 259185230
+2025-10-08 09:54:33,067 - INFO - Balance: 10000.0
+2025-10-08 09:54:33,068 - INFO - Equity: 10000.0
+2025-10-08 09:54:33,068 - INFO - Margin: 0.0
+2025-10-08 09:54:33,068 - INFO - Free margin: 10000.0
+2025-10-08 09:54:35,417 - INFO - Trained model loaded from training_output/models/final_model.zip
+2025-10-08 09:54:35,435 - INFO - Live trading started
+2025-10-08 09:54:35,483 - ERROR - Error creating state array: 'ma5'
+2025-10-08 09:54:38,893 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 09:54:45,526 - ERROR - Error creating state array: 'ma5'
+2025-10-08 09:54:48,895 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 09:54:55,580 - ERROR - Error creating state array: 'ma5'
+2025-10-08 09:54:58,907 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 09:55:05,618 - ERROR - Error creating state array: 'ma5'
+2025-10-08 09:55:08,914 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 09:55:15,657 - ERROR - Error creating state array: 'ma5'
+2025-10-08 09:55:18,923 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 09:55:25,696 - ERROR - Error creating state array: 'ma5'
+2025-10-08 09:55:28,929 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 09:55:35,737 - ERROR - Error creating state array: 'ma5'
+2025-10-08 09:55:38,937 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 09:55:45,822 - ERROR - Error creating state array: 'ma5'
+2025-10-08 09:55:48,938 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 09:55:55,864 - ERROR - Error creating state array: 'ma5'
+2025-10-08 09:55:58,945 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 09:56:05,914 - ERROR - Error creating state array: 'ma5'
+2025-10-08 09:56:08,953 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 09:56:15,951 - ERROR - Error creating state array: 'ma5'
+2025-10-08 09:56:18,965 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 09:56:26,003 - ERROR - Error creating state array: 'ma5'
+2025-10-08 09:56:28,967 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 09:56:36,056 - ERROR - Error creating state array: 'ma5'
+2025-10-08 09:56:38,977 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 09:56:46,126 - ERROR - Error creating state array: 'ma5'
+2025-10-08 09:56:48,988 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 09:56:56,167 - ERROR - Error creating state array: 'ma5'
+2025-10-08 09:56:58,994 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 09:57:06,204 - ERROR - Error creating state array: 'ma5'
+2025-10-08 09:57:09,001 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 09:57:16,266 - ERROR - Error creating state array: 'ma5'
+2025-10-08 09:57:19,008 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 09:57:26,306 - ERROR - Error creating state array: 'ma5'
+2025-10-08 09:57:29,016 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 09:57:36,339 - ERROR - Error creating state array: 'ma5'
+2025-10-08 09:57:39,021 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 09:57:46,383 - ERROR - Error creating state array: 'ma5'
+2025-10-08 09:57:49,023 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 09:57:56,425 - ERROR - Error creating state array: 'ma5'
+2025-10-08 09:57:59,027 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 09:58:06,468 - ERROR - Error creating state array: 'ma5'
+2025-10-08 09:58:09,030 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 09:58:16,511 - ERROR - Error creating state array: 'ma5'
+2025-10-08 09:58:19,037 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 09:58:26,546 - ERROR - Error creating state array: 'ma5'
+2025-10-08 09:58:29,043 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 09:58:36,592 - ERROR - Error creating state array: 'ma5'
+2025-10-08 09:58:39,049 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 09:58:46,624 - ERROR - Error creating state array: 'ma5'
+2025-10-08 09:58:49,054 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 09:58:56,660 - ERROR - Error creating state array: 'ma5'
+2025-10-08 09:58:59,055 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 09:59:06,695 - ERROR - Error creating state array: 'ma5'
+2025-10-08 09:59:09,058 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 09:59:16,735 - ERROR - Error creating state array: 'ma5'
+2025-10-08 09:59:19,064 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 09:59:26,768 - ERROR - Error creating state array: 'ma5'
+2025-10-08 09:59:29,070 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 09:59:36,806 - ERROR - Error creating state array: 'ma5'
+2025-10-08 09:59:39,077 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 09:59:46,843 - ERROR - Error creating state array: 'ma5'
+2025-10-08 09:59:49,084 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 09:59:56,880 - ERROR - Error creating state array: 'ma5'
+2025-10-08 09:59:59,089 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:00:06,922 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:00:09,095 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:00:16,976 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:00:19,098 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:00:27,022 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:00:29,101 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:00:37,056 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:00:39,105 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:00:47,097 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:00:49,111 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:00:57,142 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:00:59,116 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:01:07,175 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:01:09,121 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:01:17,223 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:01:19,123 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:01:27,253 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:01:29,127 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:01:37,266 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:01:39,128 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:01:47,298 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:01:49,132 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:01:57,322 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:01:59,132 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:02:07,346 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:02:09,135 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:02:17,356 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:02:19,141 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:02:27,436 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:02:29,144 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:02:37,471 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:02:39,148 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:02:47,515 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:02:49,149 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:02:57,574 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:02:59,158 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:03:07,591 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:03:09,161 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:03:17,621 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:03:19,165 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:03:27,637 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:03:29,166 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:03:37,663 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:03:39,169 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:03:47,693 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:03:49,170 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:03:57,749 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:03:59,175 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:04:07,785 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:04:09,175 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:04:17,819 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:04:19,178 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:04:27,870 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:04:29,182 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:04:37,907 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:04:39,193 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:04:47,936 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:04:49,196 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:04:57,958 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:04:59,197 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:05:08,000 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:05:09,200 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:05:18,022 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:05:19,207 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:05:28,069 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:05:29,213 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:05:38,110 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:05:39,219 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:05:48,151 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:05:49,221 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:05:58,191 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:05:59,224 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:06:08,240 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:06:09,231 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:06:18,290 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:06:19,238 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:06:28,333 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:06:29,245 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:06:38,375 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:06:39,250 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:06:48,433 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:06:49,258 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:06:58,469 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:06:59,266 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:07:08,509 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:07:09,271 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:07:18,559 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:07:19,280 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:07:28,607 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:07:29,287 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:07:38,651 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:07:39,290 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:07:48,686 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:07:49,303 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:07:58,734 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:07:59,309 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:08:08,773 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:08:09,315 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:08:18,816 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:08:19,322 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:08:28,870 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:08:29,326 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:08:38,944 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:08:39,331 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:08:49,031 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:08:49,335 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:08:59,111 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:08:59,341 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:09:09,224 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:09:09,344 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:09:19,324 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:09:19,355 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:09:29,361 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:09:29,374 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:09:39,363 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:09:39,430 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:09:49,374 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:09:49,484 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:09:59,379 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:09:59,636 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:10:09,388 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:10:09,690 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:10:19,397 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:10:19,785 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:10:29,404 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:10:29,836 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:10:39,410 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:10:39,886 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:10:49,418 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:10:49,938 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:10:59,426 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:10:59,995 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:11:09,432 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:11:10,051 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:11:19,439 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:11:20,104 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:11:29,446 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:11:30,161 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:11:39,453 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:11:40,216 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:11:49,461 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:11:50,272 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:11:59,467 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:12:00,334 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:12:09,474 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:12:10,395 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:12:19,482 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:12:20,456 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:12:29,490 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:12:30,514 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:12:39,497 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:12:40,582 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:12:49,504 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:12:50,637 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:12:59,512 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:13:00,694 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:13:09,519 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:13:10,752 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:13:19,525 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:13:20,808 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:13:29,534 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:13:30,864 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:13:39,541 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:13:40,923 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:13:49,548 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:13:50,980 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:13:59,556 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:14:01,039 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:14:09,562 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:14:11,094 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:14:19,570 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:14:21,155 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:14:29,578 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:14:31,209 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:14:39,580 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:14:41,246 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:14:49,583 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:14:51,282 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:14:59,586 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:15:01,346 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:15:09,589 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:15:11,408 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:15:19,595 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:15:21,448 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:15:29,598 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:15:31,483 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:15:39,601 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:15:41,545 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:15:49,604 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:15:51,604 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:15:59,611 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:16:01,643 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:16:09,613 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:16:11,684 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:16:19,617 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:16:21,721 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:16:29,620 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:16:31,761 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:16:39,624 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:16:41,838 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:16:49,627 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:16:51,877 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:16:59,631 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:17:01,915 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:17:09,633 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:17:11,952 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:17:19,636 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:17:22,007 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:17:29,644 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:17:32,062 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:17:39,647 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:17:42,116 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:17:49,650 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:17:52,154 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:17:59,653 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:18:02,219 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:18:09,660 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:18:12,286 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:18:19,664 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:18:22,344 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:18:29,670 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:18:32,402 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:18:39,678 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:18:42,440 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:18:49,684 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:18:52,501 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:18:59,691 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:19:02,559 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:19:09,694 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:19:12,619 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:19:19,699 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:19:22,681 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:19:29,704 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:19:32,746 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:19:39,708 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:19:42,805 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:19:49,712 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:19:52,861 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:19:59,717 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:20:02,904 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:20:09,721 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:20:12,941 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:20:19,728 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:20:22,979 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:20:29,730 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:20:33,021 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:20:39,733 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:20:43,076 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:20:49,737 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:20:53,119 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:20:59,742 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:21:03,155 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:21:09,745 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:21:13,198 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:21:19,749 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:21:23,240 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:21:29,751 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:21:33,280 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:21:39,757 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:21:43,316 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:21:49,759 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:21:53,346 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:21:59,763 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:22:03,370 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:22:09,766 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:22:13,408 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:22:19,769 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:22:23,436 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:22:29,772 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:22:33,463 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:22:39,774 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:22:43,492 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:22:49,778 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:22:53,516 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:22:59,781 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:23:03,540 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:23:09,783 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:23:13,570 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:23:19,790 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:23:23,593 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:23:29,793 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:23:33,637 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:23:39,801 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:23:43,671 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:23:49,806 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:23:53,716 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:23:59,811 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:24:03,753 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:24:09,818 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:24:13,781 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:24:19,822 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:24:23,824 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:24:29,827 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:24:33,847 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:24:39,833 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:24:43,874 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:24:49,839 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:24:53,903 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:24:59,845 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:25:03,941 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:25:09,848 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:25:13,971 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:25:19,852 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:25:23,993 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:25:29,860 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:25:34,019 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:25:39,866 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:25:44,046 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:25:49,871 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:25:54,096 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:25:59,880 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:26:04,134 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:26:09,883 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:26:14,163 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:26:19,887 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:26:24,197 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:26:29,889 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:26:34,230 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:26:39,892 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:26:44,261 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:26:49,898 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:26:54,290 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:26:59,903 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:27:04,324 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:27:09,905 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:27:14,352 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:27:19,909 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:27:24,382 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:27:29,912 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:27:34,416 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:27:39,916 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:27:44,447 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:27:49,921 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:27:54,479 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:27:59,924 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:28:04,510 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:28:09,927 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:28:14,545 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:28:19,932 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:28:24,575 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:28:29,940 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:28:34,608 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:28:39,946 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:28:44,636 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:28:49,950 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:28:54,669 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:28:59,954 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:29:04,689 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:29:09,958 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:29:14,737 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:29:19,962 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:29:24,783 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:29:29,965 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:29:34,806 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:29:39,968 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:29:44,840 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:29:49,972 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:29:54,861 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:29:59,974 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:30:04,893 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:30:09,976 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:30:14,922 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:30:19,979 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:30:24,949 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:30:29,983 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:30:34,995 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:30:39,987 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:30:45,035 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:30:49,992 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:30:55,071 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:30:59,998 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:31:05,106 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:31:10,002 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:31:15,141 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:31:20,005 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:31:25,174 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:31:30,008 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:31:35,239 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:31:40,011 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:31:45,274 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:31:50,019 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:31:55,304 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:32:00,027 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:32:05,344 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:32:10,033 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:32:15,383 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:32:20,039 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:32:25,422 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:32:30,046 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:32:35,449 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:32:40,051 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:32:45,490 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:32:50,056 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:32:55,522 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:33:00,059 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:33:05,550 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:33:10,062 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:33:15,620 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:33:20,067 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:33:25,654 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:33:30,069 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:33:35,699 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:33:40,074 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:33:45,726 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:33:50,078 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:33:55,749 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:34:00,081 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:34:05,795 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:34:10,083 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:34:15,818 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:34:20,085 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:34:25,863 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:34:30,089 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:34:35,887 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:34:40,092 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:34:45,918 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:34:50,099 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:34:55,950 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:35:00,104 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:35:05,991 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:35:10,112 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:35:16,037 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:35:20,116 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:35:26,078 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:35:30,119 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:35:36,113 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:35:40,122 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:35:46,145 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:35:50,127 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:35:56,178 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:36:00,134 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:36:06,209 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:36:10,140 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:36:16,242 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:36:20,145 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:36:26,270 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:36:30,150 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:36:36,316 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:36:40,153 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:36:46,347 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:36:50,155 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:36:56,400 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:37:00,160 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:37:06,429 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:37:10,164 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:37:16,743 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:37:20,168 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:37:26,804 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:37:30,171 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:37:36,834 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:37:40,174 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:37:46,868 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:37:50,179 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:37:56,900 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:38:00,183 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:38:06,940 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:38:10,188 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:38:17,010 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:38:20,191 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:38:27,037 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:38:30,199 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:38:37,061 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:38:40,206 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:38:47,088 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:38:50,213 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:38:57,111 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:39:00,216 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:39:07,135 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:39:10,224 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:39:17,168 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:39:20,230 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:39:27,232 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:39:30,234 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:39:37,273 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:39:40,236 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:39:47,306 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:39:50,239 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:39:57,336 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:40:00,242 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:40:07,369 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:40:10,248 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:40:17,402 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:40:20,252 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:40:27,436 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:40:30,256 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:40:37,491 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:40:40,259 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:40:47,521 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:40:50,262 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:40:57,551 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:41:00,269 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:41:07,594 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:41:10,276 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:41:17,617 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:41:20,283 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:41:27,654 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:41:30,290 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:41:37,700 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:41:40,296 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:41:47,743 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:41:50,299 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:41:57,766 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:42:00,306 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:42:07,792 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:42:10,314 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:42:17,821 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:42:20,316 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:42:27,865 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:42:30,322 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:42:37,889 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:42:40,330 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:42:47,911 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:42:50,333 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:42:57,942 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:43:00,335 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:43:07,991 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:43:10,338 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:43:18,028 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:43:20,340 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:43:28,059 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:43:30,344 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:43:38,110 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:43:40,347 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:43:48,133 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:43:50,355 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:43:58,156 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:44:00,358 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:44:08,182 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:44:10,361 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:44:18,208 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:44:20,364 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:44:28,243 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:44:30,366 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:44:38,268 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:44:40,369 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:44:48,315 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:44:50,371 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:44:58,361 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:45:00,374 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:45:08,409 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:45:10,378 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:45:18,431 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:45:20,382 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:45:28,454 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:45:30,384 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:45:38,503 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:45:40,388 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:45:48,527 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:45:50,391 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:45:58,558 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:46:00,398 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:46:08,583 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:46:10,401 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:46:18,630 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:46:20,407 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:46:28,675 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:46:30,410 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:46:38,722 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:46:40,412 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:46:48,754 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:46:50,415 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:46:58,800 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:47:00,418 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:47:08,845 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:47:10,420 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:47:18,877 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:47:20,425 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:47:28,909 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:47:30,429 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:47:38,958 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:47:40,432 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:47:48,994 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:47:50,434 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:47:59,019 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:48:00,437 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:48:09,050 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:48:10,439 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:48:19,077 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:48:20,442 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:48:29,104 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:48:30,444 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:48:39,130 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:48:40,447 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:48:49,155 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:48:50,449 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:48:59,177 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:49:00,458 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:49:09,201 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:49:10,460 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:49:19,224 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:49:20,463 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:49:29,248 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:49:30,465 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:49:39,274 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:49:40,468 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:49:49,296 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:49:50,470 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:49:59,343 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:50:00,473 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:50:09,389 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:50:10,475 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:50:19,419 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:50:20,479 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:50:29,447 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:50:30,481 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:50:39,477 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:50:40,484 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:50:49,510 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:50:50,487 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:50:59,540 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:51:00,488 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:51:09,624 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:51:10,501 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:51:19,704 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:51:20,509 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:51:29,787 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:51:30,514 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:51:39,875 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:51:40,519 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:51:49,963 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:51:50,528 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:52:00,073 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:52:00,538 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:52:10,161 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:52:10,544 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:52:20,232 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:52:20,552 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:52:30,330 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:52:30,559 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:52:40,381 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:52:40,568 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:52:50,435 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:52:50,576 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:53:00,534 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:53:00,582 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:53:10,590 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:53:10,601 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:53:20,594 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:53:20,684 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:53:30,604 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:53:30,778 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:53:40,607 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:53:40,821 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:53:50,612 - ERROR - Error preprocessing data: 'GoldDataPreprocessor' object has no attribute '_add_technical_indicators'
+2025-10-08 10:53:50,894 - ERROR - Error creating state array: 'ma5'
+2025-10-08 10:54:00,619 - WARNING - No data received from MT5
+2025-10-08 10:54:00,896 - WARNING - No data received from MT5
+2025-10-08 10:54:10,621 - WARNING - No data received from MT5
+2025-10-08 10:54:10,897 - WARNING - No data received from MT5
+2025-10-08 10:54:20,622 - WARNING - No data received from MT5
+2025-10-08 10:54:20,898 - WARNING - No data received from MT5
+2025-10-08 10:54:30,623 - WARNING - No data received from MT5
+2025-10-08 10:54:30,899 - WARNING - No data received from MT5
+2025-10-08 10:54:40,624 - WARNING - No data received from MT5
+2025-10-08 10:54:40,900 - WARNING - No data received from MT5
+2025-10-08 10:54:50,624 - WARNING - No data received from MT5
+2025-10-08 10:54:50,901 - WARNING - No data received from MT5
+2025-10-08 10:55:00,625 - WARNING - No data received from MT5
+2025-10-08 10:55:00,902 - WARNING - No data received from MT5
+2025-10-08 10:55:10,626 - WARNING - No data received from MT5
+2025-10-08 10:55:10,903 - WARNING - No data received from MT5
+2025-10-08 10:55:20,627 - WARNING - No data received from MT5
+2025-10-08 10:55:20,904 - WARNING - No data received from MT5
+2025-10-08 10:55:30,628 - WARNING - No data received from MT5
+2025-10-08 10:55:30,904 - WARNING - No data received from MT5
+2025-10-08 10:55:40,628 - WARNING - No data received from MT5
+2025-10-08 10:55:40,905 - WARNING - No data received from MT5
+2025-10-08 10:55:50,643 - WARNING - No data received from MT5
+2025-10-08 10:55:50,924 - WARNING - No data received from MT5
+2025-10-08 10:56:00,645 - WARNING - No data received from MT5
+2025-10-08 10:56:00,927 - WARNING - No data received from MT5
+2025-10-08 10:56:10,646 - WARNING - No data received from MT5
+2025-10-08 10:56:10,928 - WARNING - No data received from MT5
+2025-10-08 10:56:20,647 - WARNING - No data received from MT5
+2025-10-08 10:56:20,929 - WARNING - No data received from MT5
+2025-10-08 10:56:30,648 - WARNING - No data received from MT5
+2025-10-08 10:56:30,930 - WARNING - No data received from MT5
+2025-10-08 10:56:40,649 - WARNING - No data received from MT5
+2025-10-08 10:56:40,931 - WARNING - No data received from MT5
+2025-10-08 10:56:50,650 - WARNING - No data received from MT5
+2025-10-08 10:56:50,931 - WARNING - No data received from MT5
+2025-10-08 10:57:00,651 - WARNING - No data received from MT5
+2025-10-08 10:57:00,932 - WARNING - No data received from MT5
+2025-10-08 10:57:10,652 - WARNING - No data received from MT5
+2025-10-08 10:57:10,933 - WARNING - No data received from MT5
+2025-10-08 10:57:20,653 - WARNING - No data received from MT5
+2025-10-08 10:57:20,934 - WARNING - No data received from MT5
+2025-10-08 10:57:30,653 - WARNING - No data received from MT5
+2025-10-08 10:57:30,934 - WARNING - No data received from MT5
+2025-10-08 10:57:40,654 - WARNING - No data received from MT5
+2025-10-08 10:57:40,935 - WARNING - No data received from MT5
+2025-10-08 10:57:50,655 - WARNING - No data received from MT5
+2025-10-08 10:57:50,936 - WARNING - No data received from MT5
+2025-10-08 10:58:00,655 - WARNING - No data received from MT5
+2025-10-08 10:58:00,938 - WARNING - No data received from MT5
+2025-10-08 10:58:10,656 - WARNING - No data received from MT5
+2025-10-08 10:58:10,939 - WARNING - No data received from MT5
+2025-10-08 10:58:20,657 - WARNING - No data received from MT5
+2025-10-08 10:58:20,940 - WARNING - No data received from MT5
+2025-10-08 10:58:30,657 - WARNING - No data received from MT5
+2025-10-08 10:58:30,940 - WARNING - No data received from MT5
+2025-10-08 10:58:40,659 - WARNING - No data received from MT5
+2025-10-08 10:58:40,941 - WARNING - No data received from MT5
+2025-10-08 10:58:50,659 - WARNING - No data received from MT5
+2025-10-08 10:58:50,942 - WARNING - No data received from MT5
+2025-10-08 10:59:00,660 - WARNING - No data received from MT5
+2025-10-08 10:59:00,943 - WARNING - No data received from MT5
+2025-10-08 10:59:10,661 - WARNING - No data received from MT5
+2025-10-08 10:59:10,944 - WARNING - No data received from MT5
+2025-10-08 10:59:20,661 - WARNING - No data received from MT5
+2025-10-08 10:59:20,945 - WARNING - No data received from MT5
+2025-10-08 10:59:30,662 - WARNING - No data received from MT5
+2025-10-08 10:59:30,945 - WARNING - No data received from MT5
+2025-10-08 10:59:40,663 - WARNING - No data received from MT5
+2025-10-08 10:59:40,947 - WARNING - No data received from MT5
+2025-10-08 10:59:50,664 - WARNING - No data received from MT5
+2025-10-08 10:59:50,947 - WARNING - No data received from MT5
+2025-10-08 11:00:00,665 - WARNING - No data received from MT5
+2025-10-08 11:00:00,948 - WARNING - No data received from MT5
+2025-10-08 11:00:10,666 - WARNING - No data received from MT5
+2025-10-08 11:00:10,949 - WARNING - No data received from MT5
+2025-10-08 11:00:20,666 - WARNING - No data received from MT5
+2025-10-08 11:00:20,950 - WARNING - No data received from MT5
+2025-10-08 11:00:30,667 - WARNING - No data received from MT5
+2025-10-08 11:00:30,951 - WARNING - No data received from MT5
+2025-10-08 11:00:40,668 - WARNING - No data received from MT5
+2025-10-08 11:00:40,952 - WARNING - No data received from MT5
+2025-10-08 11:00:50,669 - WARNING - No data received from MT5
+2025-10-08 11:00:50,953 - WARNING - No data received from MT5
+2025-10-08 11:01:00,670 - WARNING - No data received from MT5
+2025-10-08 11:01:00,955 - WARNING - No data received from MT5
+2025-10-08 11:01:10,671 - WARNING - No data received from MT5
+2025-10-08 11:01:10,956 - WARNING - No data received from MT5
+2025-10-08 11:01:20,672 - WARNING - No data received from MT5
+2025-10-08 11:01:20,957 - WARNING - No data received from MT5
+2025-10-08 11:01:30,673 - WARNING - No data received from MT5
+2025-10-08 11:01:30,958 - WARNING - No data received from MT5
+2025-10-08 11:01:40,674 - WARNING - No data received from MT5
+2025-10-08 11:01:40,958 - WARNING - No data received from MT5
+2025-10-08 11:01:50,675 - WARNING - No data received from MT5
+2025-10-08 11:01:50,960 - WARNING - No data received from MT5
+2025-10-08 11:02:00,676 - WARNING - No data received from MT5
+2025-10-08 11:02:00,961 - WARNING - No data received from MT5
+2025-10-08 11:02:10,677 - WARNING - No data received from MT5
+2025-10-08 11:02:10,962 - WARNING - No data received from MT5
+2025-10-08 11:02:20,678 - WARNING - No data received from MT5
+2025-10-08 11:02:20,962 - WARNING - No data received from MT5
+2025-10-08 11:02:30,679 - WARNING - No data received from MT5
+2025-10-08 11:02:30,964 - WARNING - No data received from MT5
+2025-10-08 11:02:40,680 - WARNING - No data received from MT5
+2025-10-08 11:02:40,965 - WARNING - No data received from MT5
+2025-10-08 11:02:50,681 - WARNING - No data received from MT5
+2025-10-08 11:02:50,966 - WARNING - No data received from MT5
+2025-10-08 11:03:00,682 - WARNING - No data received from MT5
+2025-10-08 11:03:00,967 - WARNING - No data received from MT5
+2025-10-08 11:03:10,683 - WARNING - No data received from MT5
+2025-10-08 11:03:10,968 - WARNING - No data received from MT5
+2025-10-08 11:03:20,684 - WARNING - No data received from MT5
+2025-10-08 11:03:20,968 - WARNING - No data received from MT5
+2025-10-08 11:03:30,685 - WARNING - No data received from MT5
+2025-10-08 11:03:30,970 - WARNING - No data received from MT5
+2025-10-08 11:03:40,686 - WARNING - No data received from MT5
+2025-10-08 11:03:40,971 - WARNING - No data received from MT5
+2025-10-08 11:03:50,686 - WARNING - No data received from MT5
+2025-10-08 11:03:50,972 - WARNING - No data received from MT5
+2025-10-08 11:04:00,687 - WARNING - No data received from MT5
+2025-10-08 11:04:00,973 - WARNING - No data received from MT5
+2025-10-08 11:04:10,688 - WARNING - No data received from MT5
+2025-10-08 11:04:10,974 - WARNING - No data received from MT5
+2025-10-08 11:04:20,690 - WARNING - No data received from MT5
+2025-10-08 11:04:20,976 - WARNING - No data received from MT5
+2025-10-08 11:04:30,690 - WARNING - No data received from MT5
+2025-10-08 11:04:30,977 - WARNING - No data received from MT5
+2025-10-08 11:04:40,691 - WARNING - No data received from MT5
+2025-10-08 11:04:40,978 - WARNING - No data received from MT5
+2025-10-08 11:04:50,692 - WARNING - No data received from MT5
+2025-10-08 11:04:50,979 - WARNING - No data received from MT5
+2025-10-08 11:05:00,692 - WARNING - No data received from MT5
+2025-10-08 11:05:00,980 - WARNING - No data received from MT5
+2025-10-08 11:05:10,693 - WARNING - No data received from MT5
+2025-10-08 11:05:10,981 - WARNING - No data received from MT5
+2025-10-08 11:05:20,694 - WARNING - No data received from MT5
+2025-10-08 11:05:20,981 - WARNING - No data received from MT5
+2025-10-08 11:05:30,695 - WARNING - No data received from MT5
+2025-10-08 11:05:30,982 - WARNING - No data received from MT5
+2025-10-08 11:05:40,696 - WARNING - No data received from MT5
+2025-10-08 11:05:40,983 - WARNING - No data received from MT5
+2025-10-08 11:05:50,697 - WARNING - No data received from MT5
+2025-10-08 11:05:50,984 - WARNING - No data received from MT5
+2025-10-08 11:06:00,698 - WARNING - No data received from MT5
+2025-10-08 11:06:00,985 - WARNING - No data received from MT5
+2025-10-08 11:06:10,699 - WARNING - No data received from MT5
+2025-10-08 11:06:10,986 - WARNING - No data received from MT5
+2025-10-08 11:06:20,699 - WARNING - No data received from MT5
+2025-10-08 11:06:20,987 - WARNING - No data received from MT5
+2025-10-08 11:06:30,700 - WARNING - No data received from MT5
+2025-10-08 11:06:30,988 - WARNING - No data received from MT5
+2025-10-08 11:06:40,701 - WARNING - No data received from MT5
+2025-10-08 11:06:40,989 - WARNING - No data received from MT5
+2025-10-08 11:06:50,703 - WARNING - No data received from MT5
+2025-10-08 11:06:50,990 - WARNING - No data received from MT5
+2025-10-08 11:07:00,704 - WARNING - No data received from MT5
+2025-10-08 11:07:00,991 - WARNING - No data received from MT5
+2025-10-08 11:07:10,705 - WARNING - No data received from MT5
+2025-10-08 11:07:10,992 - WARNING - No data received from MT5
+2025-10-08 11:07:20,706 - WARNING - No data received from MT5
+2025-10-08 11:07:20,993 - WARNING - No data received from MT5
+2025-10-08 11:07:30,707 - WARNING - No data received from MT5
+2025-10-08 11:07:30,994 - WARNING - No data received from MT5
+2025-10-08 11:07:40,708 - WARNING - No data received from MT5
+2025-10-08 11:07:40,995 - WARNING - No data received from MT5
+2025-10-08 11:07:50,709 - WARNING - No data received from MT5
+2025-10-08 11:07:50,996 - WARNING - No data received from MT5
+2025-10-08 11:08:00,710 - WARNING - No data received from MT5
+2025-10-08 11:08:00,997 - WARNING - No data received from MT5
+2025-10-08 11:08:10,710 - WARNING - No data received from MT5
+2025-10-08 11:08:10,998 - WARNING - No data received from MT5
+2025-10-08 11:08:20,711 - WARNING - No data received from MT5
+2025-10-08 11:08:20,999 - WARNING - No data received from MT5
+2025-10-08 11:08:30,712 - WARNING - No data received from MT5
+2025-10-08 11:08:31,000 - WARNING - No data received from MT5
+2025-10-08 11:08:40,713 - WARNING - No data received from MT5
+2025-10-08 11:08:41,002 - WARNING - No data received from MT5
+2025-10-08 11:08:50,714 - WARNING - No data received from MT5
+2025-10-08 11:08:51,003 - WARNING - No data received from MT5
+2025-10-08 11:09:00,715 - WARNING - No data received from MT5
+2025-10-08 11:09:01,004 - WARNING - No data received from MT5
+2025-10-08 11:09:10,716 - WARNING - No data received from MT5
+2025-10-08 11:09:11,004 - WARNING - No data received from MT5
+2025-10-08 11:09:20,717 - WARNING - No data received from MT5
+2025-10-08 11:09:21,005 - WARNING - No data received from MT5
+2025-10-08 11:09:30,719 - WARNING - No data received from MT5
+2025-10-08 11:09:31,007 - WARNING - No data received from MT5
+2025-10-08 11:09:40,720 - WARNING - No data received from MT5
+2025-10-08 11:09:41,008 - WARNING - No data received from MT5
+2025-10-08 11:09:50,721 - WARNING - No data received from MT5
+2025-10-08 11:09:51,009 - WARNING - No data received from MT5
+2025-10-08 11:10:00,722 - WARNING - No data received from MT5
+2025-10-08 11:10:01,011 - WARNING - No data received from MT5
+2025-10-08 11:10:10,723 - WARNING - No data received from MT5
+2025-10-08 11:10:11,012 - WARNING - No data received from MT5
+2025-10-08 11:10:20,724 - WARNING - No data received from MT5
+2025-10-08 11:10:21,013 - WARNING - No data received from MT5
+2025-10-08 11:10:30,725 - WARNING - No data received from MT5
+2025-10-08 11:10:31,015 - WARNING - No data received from MT5
+2025-10-08 11:10:40,732 - WARNING - No data received from MT5
+2025-10-08 11:10:41,015 - WARNING - No data received from MT5
+2025-10-08 11:10:50,733 - WARNING - No data received from MT5
+2025-10-08 11:10:51,016 - WARNING - No data received from MT5
+2025-10-08 11:11:00,735 - WARNING - No data received from MT5
+2025-10-08 11:11:01,018 - WARNING - No data received from MT5
+2025-10-08 11:11:10,736 - WARNING - No data received from MT5
+2025-10-08 11:11:11,018 - WARNING - No data received from MT5
+2025-10-08 11:11:20,736 - WARNING - No data received from MT5
+2025-10-08 11:11:21,019 - WARNING - No data received from MT5
+2025-10-08 11:11:30,737 - WARNING - No data received from MT5
+2025-10-08 11:11:31,020 - WARNING - No data received from MT5
+2025-10-08 11:11:40,738 - WARNING - No data received from MT5
+2025-10-08 11:11:41,021 - WARNING - No data received from MT5
+2025-10-08 11:11:50,739 - WARNING - No data received from MT5
+2025-10-08 11:11:51,022 - WARNING - No data received from MT5
+2025-10-08 11:12:00,739 - WARNING - No data received from MT5
+2025-10-08 11:12:01,022 - WARNING - No data received from MT5
+2025-10-08 11:12:10,740 - WARNING - No data received from MT5
+2025-10-08 11:12:11,024 - WARNING - No data received from MT5
+2025-10-08 11:12:20,742 - WARNING - No data received from MT5
+2025-10-08 11:12:21,024 - WARNING - No data received from MT5
+2025-10-08 11:12:30,745 - WARNING - No data received from MT5
+2025-10-08 11:12:31,025 - WARNING - No data received from MT5
+2025-10-08 11:12:40,746 - WARNING - No data received from MT5
+2025-10-08 11:12:41,026 - WARNING - No data received from MT5
+2025-10-08 11:12:50,747 - WARNING - No data received from MT5
+2025-10-08 11:12:51,027 - WARNING - No data received from MT5
+2025-10-08 11:13:00,748 - WARNING - No data received from MT5
+2025-10-08 11:13:01,028 - WARNING - No data received from MT5
+2025-10-08 11:13:10,749 - WARNING - No data received from MT5
+2025-10-08 11:13:11,029 - WARNING - No data received from MT5
+2025-10-08 11:13:20,750 - WARNING - No data received from MT5
+2025-10-08 11:13:21,030 - WARNING - No data received from MT5
+2025-10-08 11:13:30,751 - WARNING - No data received from MT5
+2025-10-08 11:13:31,031 - WARNING - No data received from MT5
+2025-10-08 11:13:40,751 - WARNING - No data received from MT5
+2025-10-08 11:13:41,032 - WARNING - No data received from MT5
+2025-10-08 11:13:50,752 - WARNING - No data received from MT5
+2025-10-08 11:13:51,033 - WARNING - No data received from MT5
+2025-10-08 11:14:00,753 - WARNING - No data received from MT5
+2025-10-08 11:14:01,034 - WARNING - No data received from MT5
+2025-10-08 11:14:10,754 - WARNING - No data received from MT5
+2025-10-08 11:14:11,035 - WARNING - No data received from MT5
+2025-10-08 11:14:20,756 - WARNING - No data received from MT5
+2025-10-08 11:14:21,036 - WARNING - No data received from MT5
+2025-10-08 11:14:30,757 - WARNING - No data received from MT5
+2025-10-08 11:14:31,037 - WARNING - No data received from MT5
+2025-10-08 11:14:40,758 - WARNING - No data received from MT5
+2025-10-08 11:14:41,038 - WARNING - No data received from MT5
+2025-10-08 11:14:50,759 - WARNING - No data received from MT5
+2025-10-08 11:14:51,038 - WARNING - No data received from MT5
+2025-10-08 11:15:00,760 - WARNING - No data received from MT5
+2025-10-08 11:15:01,039 - WARNING - No data received from MT5
+2025-10-08 11:15:10,761 - WARNING - No data received from MT5
+2025-10-08 11:15:11,041 - WARNING - No data received from MT5
+2025-10-08 11:15:20,762 - WARNING - No data received from MT5
+2025-10-08 11:15:21,042 - WARNING - No data received from MT5
+2025-10-08 11:15:30,762 - WARNING - No data received from MT5
+2025-10-08 11:15:31,042 - WARNING - No data received from MT5
+2025-10-08 11:15:40,763 - WARNING - No data received from MT5
+2025-10-08 11:15:41,044 - WARNING - No data received from MT5
+2025-10-08 11:15:50,765 - WARNING - No data received from MT5
+2025-10-08 11:15:51,044 - WARNING - No data received from MT5
+2025-10-08 11:16:00,765 - WARNING - No data received from MT5
+2025-10-08 11:16:01,046 - WARNING - No data received from MT5
+2025-10-08 11:16:10,766 - WARNING - No data received from MT5
+2025-10-08 11:16:11,047 - WARNING - No data received from MT5
+2025-10-08 11:16:20,767 - WARNING - No data received from MT5
+2025-10-08 11:16:21,047 - WARNING - No data received from MT5
+2025-10-08 11:16:30,768 - WARNING - No data received from MT5
+2025-10-08 11:16:31,048 - WARNING - No data received from MT5
+2025-10-08 11:16:40,769 - WARNING - No data received from MT5
+2025-10-08 11:16:41,049 - WARNING - No data received from MT5
+2025-10-08 11:16:50,770 - WARNING - No data received from MT5
+2025-10-08 11:16:51,049 - WARNING - No data received from MT5
+2025-10-08 11:17:00,771 - WARNING - No data received from MT5
+2025-10-08 11:17:01,050 - WARNING - No data received from MT5
+2025-10-08 11:17:10,773 - WARNING - No data received from MT5
+2025-10-08 11:17:11,051 - WARNING - No data received from MT5
+2025-10-08 11:17:20,774 - WARNING - No data received from MT5
+2025-10-08 11:17:21,052 - WARNING - No data received from MT5
+2025-10-08 11:17:30,775 - WARNING - No data received from MT5
+2025-10-08 11:17:31,053 - WARNING - No data received from MT5
+2025-10-08 11:17:40,776 - WARNING - No data received from MT5
+2025-10-08 11:17:41,054 - WARNING - No data received from MT5
+2025-10-08 11:17:50,777 - WARNING - No data received from MT5
+2025-10-08 11:17:51,055 - WARNING - No data received from MT5
+2025-10-08 11:18:00,778 - WARNING - No data received from MT5
+2025-10-08 11:18:01,056 - WARNING - No data received from MT5
+2025-10-08 11:18:10,779 - WARNING - No data received from MT5
+2025-10-08 11:18:11,057 - WARNING - No data received from MT5
+2025-10-08 11:18:20,780 - WARNING - No data received from MT5
+2025-10-08 11:18:21,058 - WARNING - No data received from MT5
+2025-10-08 11:18:30,781 - WARNING - No data received from MT5
+2025-10-08 11:18:31,060 - WARNING - No data received from MT5
+2025-10-08 11:18:40,781 - WARNING - No data received from MT5
+2025-10-08 11:18:41,061 - WARNING - No data received from MT5
+2025-10-08 11:18:50,783 - WARNING - No data received from MT5
+2025-10-08 11:18:51,062 - WARNING - No data received from MT5
+2025-10-08 11:19:00,784 - WARNING - No data received from MT5
+2025-10-08 11:19:01,062 - WARNING - No data received from MT5
+2025-10-08 11:19:10,784 - WARNING - No data received from MT5
+2025-10-08 11:19:11,063 - WARNING - No data received from MT5
+2025-10-08 11:19:20,785 - WARNING - No data received from MT5
+2025-10-08 11:19:21,064 - WARNING - No data received from MT5
+2025-10-08 11:19:30,786 - WARNING - No data received from MT5
+2025-10-08 11:19:31,065 - WARNING - No data received from MT5
+2025-10-08 11:19:40,791 - WARNING - No data received from MT5
+2025-10-08 11:19:41,112 - WARNING - No data received from MT5
+2025-10-08 11:19:50,793 - WARNING - No data received from MT5
+2025-10-08 11:19:51,113 - WARNING - No data received from MT5
+2025-10-08 11:20:00,794 - WARNING - No data received from MT5
+2025-10-08 11:20:01,113 - WARNING - No data received from MT5
+2025-10-08 11:20:10,795 - WARNING - No data received from MT5
+2025-10-08 11:20:11,115 - WARNING - No data received from MT5
+2025-10-08 11:20:20,796 - WARNING - No data received from MT5
+2025-10-08 11:20:21,116 - WARNING - No data received from MT5
+2025-10-08 11:20:30,797 - WARNING - No data received from MT5
+2025-10-08 11:20:31,117 - WARNING - No data received from MT5
+2025-10-08 11:20:40,798 - WARNING - No data received from MT5
+2025-10-08 11:20:41,119 - WARNING - No data received from MT5
+2025-10-08 11:20:50,800 - WARNING - No data received from MT5
+2025-10-08 11:20:51,120 - WARNING - No data received from MT5
+2025-10-08 11:21:00,801 - WARNING - No data received from MT5
+2025-10-08 11:21:01,120 - WARNING - No data received from MT5
+2025-10-08 11:21:10,801 - WARNING - No data received from MT5
+2025-10-08 11:21:11,121 - WARNING - No data received from MT5
+2025-10-08 11:21:20,802 - WARNING - No data received from MT5
+2025-10-08 11:21:21,122 - WARNING - No data received from MT5
+2025-10-08 11:21:30,803 - WARNING - No data received from MT5
+2025-10-08 11:21:31,122 - WARNING - No data received from MT5
+2025-10-08 11:21:40,803 - WARNING - No data received from MT5
+2025-10-08 11:21:41,123 - WARNING - No data received from MT5
+2025-10-08 11:21:50,804 - WARNING - No data received from MT5
+2025-10-08 11:21:51,124 - WARNING - No data received from MT5
+2025-10-08 11:22:00,805 - WARNING - No data received from MT5
+2025-10-08 11:22:01,126 - WARNING - No data received from MT5
+2025-10-08 11:22:10,806 - WARNING - No data received from MT5
+2025-10-08 11:22:11,130 - WARNING - No data received from MT5
+2025-10-08 11:22:20,807 - WARNING - No data received from MT5
+2025-10-08 11:22:21,131 - WARNING - No data received from MT5
+2025-10-08 11:22:30,808 - WARNING - No data received from MT5
+2025-10-08 11:22:31,132 - WARNING - No data received from MT5
+2025-10-08 11:22:40,810 - WARNING - No data received from MT5
+2025-10-08 11:22:41,134 - WARNING - No data received from MT5
+2025-10-08 11:22:50,811 - WARNING - No data received from MT5
+2025-10-08 11:22:51,135 - WARNING - No data received from MT5
+2025-10-08 11:23:00,811 - WARNING - No data received from MT5
+2025-10-08 11:23:01,136 - WARNING - No data received from MT5
+2025-10-08 11:23:10,812 - WARNING - No data received from MT5
+2025-10-08 11:23:11,137 - WARNING - No data received from MT5
+2025-10-08 11:23:20,813 - WARNING - No data received from MT5
+2025-10-08 11:23:21,138 - WARNING - No data received from MT5
+2025-10-08 11:23:30,814 - WARNING - No data received from MT5
+2025-10-08 11:23:31,139 - WARNING - No data received from MT5
+2025-10-08 11:23:40,815 - WARNING - No data received from MT5
+2025-10-08 11:23:41,140 - WARNING - No data received from MT5
+2025-10-08 11:23:50,816 - WARNING - No data received from MT5
+2025-10-08 11:23:51,141 - WARNING - No data received from MT5
+2025-10-08 11:24:00,817 - WARNING - No data received from MT5
+2025-10-08 11:24:01,142 - WARNING - No data received from MT5
+2025-10-08 11:24:10,817 - WARNING - No data received from MT5
+2025-10-08 11:24:11,144 - WARNING - No data received from MT5
+2025-10-08 11:24:20,818 - WARNING - No data received from MT5
+2025-10-08 11:24:21,145 - WARNING - No data received from MT5
+2025-10-08 11:24:30,819 - WARNING - No data received from MT5
+2025-10-08 11:24:31,146 - WARNING - No data received from MT5
+2025-10-08 11:24:40,820 - WARNING - No data received from MT5
+2025-10-08 11:24:41,147 - WARNING - No data received from MT5
+2025-10-08 11:24:50,821 - WARNING - No data received from MT5
+2025-10-08 11:24:51,148 - WARNING - No data received from MT5
+2025-10-08 11:25:00,822 - WARNING - No data received from MT5
+2025-10-08 11:25:01,149 - WARNING - No data received from MT5
+2025-10-08 11:25:10,823 - WARNING - No data received from MT5
+2025-10-08 11:25:11,150 - WARNING - No data received from MT5
+2025-10-08 11:25:20,824 - WARNING - No data received from MT5
+2025-10-08 11:25:21,150 - WARNING - No data received from MT5
+2025-10-08 11:25:30,824 - WARNING - No data received from MT5
+2025-10-08 11:25:31,152 - WARNING - No data received from MT5
+2025-10-08 11:25:40,825 - WARNING - No data received from MT5
+2025-10-08 11:25:41,152 - WARNING - No data received from MT5
+2025-10-08 11:25:50,826 - WARNING - No data received from MT5
+2025-10-08 11:25:51,153 - WARNING - No data received from MT5
+2025-10-08 11:26:00,828 - WARNING - No data received from MT5
+2025-10-08 11:26:01,154 - WARNING - No data received from MT5
+2025-10-08 11:26:10,829 - WARNING - No data received from MT5
+2025-10-08 11:26:11,155 - WARNING - No data received from MT5
+2025-10-08 11:26:20,830 - WARNING - No data received from MT5
+2025-10-08 11:26:21,156 - WARNING - No data received from MT5
+2025-10-08 11:26:30,832 - WARNING - No data received from MT5
+2025-10-08 11:26:31,156 - WARNING - No data received from MT5
+2025-10-08 11:26:40,833 - WARNING - No data received from MT5
+2025-10-08 11:26:41,157 - WARNING - No data received from MT5
+2025-10-08 11:26:50,834 - WARNING - No data received from MT5
+2025-10-08 11:26:51,158 - WARNING - No data received from MT5
+2025-10-08 11:27:00,837 - WARNING - No data received from MT5
+2025-10-08 11:27:01,161 - WARNING - No data received from MT5
+2025-10-08 11:27:10,838 - WARNING - No data received from MT5
+2025-10-08 11:27:11,163 - WARNING - No data received from MT5
+2025-10-08 11:27:20,838 - WARNING - No data received from MT5
+2025-10-08 11:27:21,163 - WARNING - No data received from MT5
+2025-10-08 11:27:30,839 - WARNING - No data received from MT5
+2025-10-08 11:27:31,164 - WARNING - No data received from MT5
+2025-10-08 11:27:40,840 - WARNING - No data received from MT5
+2025-10-08 11:27:41,165 - WARNING - No data received from MT5
+2025-10-08 11:27:50,841 - WARNING - No data received from MT5
+2025-10-08 11:27:51,165 - WARNING - No data received from MT5
+2025-10-08 11:28:00,842 - WARNING - No data received from MT5
+2025-10-08 11:28:01,166 - WARNING - No data received from MT5
+2025-10-08 11:28:10,843 - WARNING - No data received from MT5
+2025-10-08 11:28:11,167 - WARNING - No data received from MT5
+2025-10-08 11:28:20,844 - WARNING - No data received from MT5
+2025-10-08 11:28:21,168 - WARNING - No data received from MT5
+2025-10-08 11:28:30,845 - WARNING - No data received from MT5
+2025-10-08 11:28:31,169 - WARNING - No data received from MT5
+2025-10-08 11:28:40,846 - WARNING - No data received from MT5
+2025-10-08 11:28:41,170 - WARNING - No data received from MT5
+2025-10-08 11:28:50,847 - WARNING - No data received from MT5
+2025-10-08 11:28:51,171 - WARNING - No data received from MT5
+2025-10-08 11:29:00,848 - WARNING - No data received from MT5
+2025-10-08 11:29:01,172 - WARNING - No data received from MT5
+2025-10-08 11:29:10,849 - WARNING - No data received from MT5
+2025-10-08 11:29:11,173 - WARNING - No data received from MT5
+2025-10-08 11:29:20,850 - WARNING - No data received from MT5
+2025-10-08 11:29:21,174 - WARNING - No data received from MT5
+2025-10-08 11:29:30,851 - WARNING - No data received from MT5
+2025-10-08 11:29:31,175 - WARNING - No data received from MT5
+2025-10-08 11:29:40,852 - WARNING - No data received from MT5
+2025-10-08 11:29:41,176 - WARNING - No data received from MT5
+2025-10-08 11:29:50,853 - WARNING - No data received from MT5
+2025-10-08 11:29:51,180 - WARNING - No data received from MT5
+2025-10-08 11:30:00,856 - WARNING - No data received from MT5
+2025-10-08 11:30:01,180 - WARNING - No data received from MT5
+2025-10-08 11:30:10,857 - WARNING - No data received from MT5
+2025-10-08 11:30:11,181 - WARNING - No data received from MT5
+2025-10-08 11:30:20,859 - WARNING - No data received from MT5
+2025-10-08 11:30:21,182 - WARNING - No data received from MT5
+2025-10-08 11:30:30,860 - WARNING - No data received from MT5
+2025-10-08 11:30:31,183 - WARNING - No data received from MT5
+2025-10-08 11:30:40,861 - WARNING - No data received from MT5
+2025-10-08 11:30:41,184 - WARNING - No data received from MT5
+2025-10-08 11:30:50,862 - WARNING - No data received from MT5
+2025-10-08 11:30:51,185 - WARNING - No data received from MT5
+2025-10-08 11:31:00,863 - WARNING - No data received from MT5
+2025-10-08 11:31:01,186 - WARNING - No data received from MT5
+2025-10-08 11:31:10,864 - WARNING - No data received from MT5
+2025-10-08 11:31:11,187 - WARNING - No data received from MT5
+2025-10-08 11:31:20,865 - WARNING - No data received from MT5
+2025-10-08 11:31:21,188 - WARNING - No data received from MT5
+2025-10-08 11:31:30,866 - WARNING - No data received from MT5
+2025-10-08 11:31:31,188 - WARNING - No data received from MT5
+2025-10-08 11:31:40,867 - WARNING - No data received from MT5
+2025-10-08 11:31:41,190 - WARNING - No data received from MT5
+2025-10-08 11:31:50,868 - WARNING - No data received from MT5
+2025-10-08 11:31:51,190 - WARNING - No data received from MT5
+2025-10-08 11:32:00,869 - WARNING - No data received from MT5
+2025-10-08 11:32:01,191 - WARNING - No data received from MT5
+2025-10-08 11:32:10,870 - WARNING - No data received from MT5
+2025-10-08 11:32:11,192 - WARNING - No data received from MT5
+2025-10-08 11:32:20,871 - WARNING - No data received from MT5
+2025-10-08 11:32:21,194 - WARNING - No data received from MT5
+2025-10-08 11:32:30,872 - WARNING - No data received from MT5
+2025-10-08 11:32:31,195 - WARNING - No data received from MT5
+2025-10-08 11:32:40,872 - WARNING - No data received from MT5
+2025-10-08 11:32:41,196 - WARNING - No data received from MT5
+2025-10-08 11:32:50,874 - WARNING - No data received from MT5
+2025-10-08 11:32:51,197 - WARNING - No data received from MT5
+2025-10-08 11:33:00,874 - WARNING - No data received from MT5
+2025-10-08 11:33:01,198 - WARNING - No data received from MT5
+2025-10-08 11:33:10,875 - WARNING - No data received from MT5
+2025-10-08 11:33:11,198 - WARNING - No data received from MT5
+2025-10-08 11:33:20,877 - WARNING - No data received from MT5
+2025-10-08 11:33:21,199 - WARNING - No data received from MT5
+2025-10-08 11:33:30,878 - WARNING - No data received from MT5
+2025-10-08 11:33:31,201 - WARNING - No data received from MT5
+2025-10-08 11:33:40,879 - WARNING - No data received from MT5
+2025-10-08 11:33:41,201 - WARNING - No data received from MT5
+2025-10-08 11:33:50,880 - WARNING - No data received from MT5
+2025-10-08 11:33:51,203 - WARNING - No data received from MT5
+2025-10-08 11:34:00,884 - WARNING - No data received from MT5
+2025-10-08 11:34:01,205 - WARNING - No data received from MT5
+2025-10-08 11:34:10,886 - WARNING - No data received from MT5
+2025-10-08 11:34:11,206 - WARNING - No data received from MT5
+2025-10-08 11:34:20,887 - WARNING - No data received from MT5
+2025-10-08 11:34:21,207 - WARNING - No data received from MT5
+2025-10-08 11:34:30,888 - WARNING - No data received from MT5
+2025-10-08 11:34:31,208 - WARNING - No data received from MT5
+2025-10-08 11:34:40,889 - WARNING - No data received from MT5
+2025-10-08 11:34:41,209 - WARNING - No data received from MT5
+2025-10-08 11:34:50,892 - WARNING - No data received from MT5
+2025-10-08 11:34:51,211 - WARNING - No data received from MT5
+2025-10-08 11:35:00,894 - WARNING - No data received from MT5
+2025-10-08 11:35:01,212 - WARNING - No data received from MT5
+2025-10-08 11:35:10,895 - WARNING - No data received from MT5
+2025-10-08 11:35:11,213 - WARNING - No data received from MT5
+2025-10-08 11:35:20,896 - WARNING - No data received from MT5
+2025-10-08 11:35:21,213 - WARNING - No data received from MT5
+2025-10-08 11:35:30,896 - WARNING - No data received from MT5
+2025-10-08 11:35:31,214 - WARNING - No data received from MT5
+2025-10-08 11:35:40,898 - WARNING - No data received from MT5
+2025-10-08 11:35:41,215 - WARNING - No data received from MT5
+2025-10-08 11:35:50,899 - WARNING - No data received from MT5
+2025-10-08 11:35:51,216 - WARNING - No data received from MT5
+2025-10-08 11:36:00,900 - WARNING - No data received from MT5
+2025-10-08 11:36:01,217 - WARNING - No data received from MT5
+2025-10-08 11:36:10,901 - WARNING - No data received from MT5
+2025-10-08 11:36:11,219 - WARNING - No data received from MT5
+2025-10-08 11:36:20,902 - WARNING - No data received from MT5
+2025-10-08 11:36:21,220 - WARNING - No data received from MT5
+2025-10-08 11:36:30,903 - WARNING - No data received from MT5
+2025-10-08 11:36:31,221 - WARNING - No data received from MT5
+2025-10-08 11:36:40,904 - WARNING - No data received from MT5
+2025-10-08 11:36:41,222 - WARNING - No data received from MT5
+2025-10-08 11:36:50,905 - WARNING - No data received from MT5
+2025-10-08 11:36:51,223 - WARNING - No data received from MT5
+2025-10-08 11:37:00,906 - WARNING - No data received from MT5
+2025-10-08 11:37:01,224 - WARNING - No data received from MT5
+2025-10-08 11:37:10,907 - WARNING - No data received from MT5
+2025-10-08 11:37:11,224 - WARNING - No data received from MT5
+2025-10-08 11:37:20,908 - WARNING - No data received from MT5
+2025-10-08 11:37:21,226 - WARNING - No data received from MT5
+2025-10-08 11:37:30,909 - WARNING - No data received from MT5
+2025-10-08 11:37:31,227 - WARNING - No data received from MT5
+2025-10-08 11:37:40,910 - WARNING - No data received from MT5
+2025-10-08 11:37:41,228 - WARNING - No data received from MT5
+2025-10-08 11:37:50,911 - WARNING - No data received from MT5
+2025-10-08 11:37:51,229 - WARNING - No data received from MT5
+2025-10-08 11:38:00,912 - WARNING - No data received from MT5
+2025-10-08 11:38:01,229 - WARNING - No data received from MT5
+2025-10-08 11:38:10,913 - WARNING - No data received from MT5
+2025-10-08 11:38:11,230 - WARNING - No data received from MT5
+2025-10-08 11:38:20,914 - WARNING - No data received from MT5
+2025-10-08 11:38:21,231 - WARNING - No data received from MT5
+2025-10-08 11:38:30,915 - WARNING - No data received from MT5
+2025-10-08 11:38:31,232 - WARNING - No data received from MT5
+2025-10-08 11:38:40,916 - WARNING - No data received from MT5
+2025-10-08 11:38:41,233 - WARNING - No data received from MT5
+2025-10-08 11:38:50,917 - WARNING - No data received from MT5
+2025-10-08 11:38:51,234 - WARNING - No data received from MT5
+2025-10-08 11:39:00,917 - WARNING - No data received from MT5
+2025-10-08 11:39:01,235 - WARNING - No data received from MT5
+2025-10-08 11:39:10,918 - WARNING - No data received from MT5
+2025-10-08 11:39:11,235 - WARNING - No data received from MT5
+2025-10-08 11:39:20,919 - WARNING - No data received from MT5
+2025-10-08 11:39:21,236 - WARNING - No data received from MT5
+2025-10-08 11:39:30,920 - WARNING - No data received from MT5
+2025-10-08 11:39:31,237 - WARNING - No data received from MT5
+2025-10-08 11:39:40,921 - WARNING - No data received from MT5
+2025-10-08 11:39:41,238 - WARNING - No data received from MT5
+2025-10-08 11:39:50,922 - WARNING - No data received from MT5
+2025-10-08 11:39:51,239 - WARNING - No data received from MT5
+2025-10-08 11:40:00,922 - WARNING - No data received from MT5
+2025-10-08 11:40:01,303 - WARNING - No data received from MT5
+2025-10-08 11:40:10,923 - WARNING - No data received from MT5
+2025-10-08 11:40:11,305 - WARNING - No data received from MT5
+2025-10-08 11:40:20,924 - WARNING - No data received from MT5
+2025-10-08 11:40:21,307 - WARNING - No data received from MT5
+2025-10-08 11:40:30,925 - WARNING - No data received from MT5
+2025-10-08 11:40:31,308 - WARNING - No data received from MT5
+2025-10-08 11:40:40,926 - WARNING - No data received from MT5
+2025-10-08 11:40:41,310 - WARNING - No data received from MT5
+2025-10-08 11:40:50,927 - WARNING - No data received from MT5
+2025-10-08 11:40:51,311 - WARNING - No data received from MT5
+2025-10-08 11:41:00,928 - WARNING - No data received from MT5
+2025-10-08 11:41:01,312 - WARNING - No data received from MT5
+2025-10-08 11:41:10,929 - WARNING - No data received from MT5
+2025-10-08 11:41:11,313 - WARNING - No data received from MT5
+2025-10-08 11:41:20,930 - WARNING - No data received from MT5
+2025-10-08 11:41:21,314 - WARNING - No data received from MT5
+2025-10-08 11:41:30,931 - WARNING - No data received from MT5
+2025-10-08 11:41:31,315 - WARNING - No data received from MT5
+2025-10-08 11:41:40,933 - WARNING - No data received from MT5
+2025-10-08 11:41:41,315 - WARNING - No data received from MT5
+2025-10-08 11:41:50,934 - WARNING - No data received from MT5
+2025-10-08 11:41:51,316 - WARNING - No data received from MT5
+2025-10-08 11:42:00,935 - WARNING - No data received from MT5
+2025-10-08 11:42:01,318 - WARNING - No data received from MT5
+2025-10-08 11:42:10,936 - WARNING - No data received from MT5
+2025-10-08 11:42:11,318 - WARNING - No data received from MT5
+2025-10-08 11:42:20,937 - WARNING - No data received from MT5
+2025-10-08 11:42:21,319 - WARNING - No data received from MT5
+2025-10-08 11:42:30,938 - WARNING - No data received from MT5
+2025-10-08 11:42:31,320 - WARNING - No data received from MT5
+2025-10-08 11:42:40,939 - WARNING - No data received from MT5
+2025-10-08 11:42:41,321 - WARNING - No data received from MT5
+2025-10-08 11:42:50,939 - WARNING - No data received from MT5
+2025-10-08 11:42:51,322 - WARNING - No data received from MT5
+2025-10-08 11:43:00,940 - WARNING - No data received from MT5
+2025-10-08 11:43:01,324 - WARNING - No data received from MT5
+2025-10-08 11:43:10,941 - WARNING - No data received from MT5
+2025-10-08 11:43:11,324 - WARNING - No data received from MT5
+2025-10-08 11:43:20,942 - WARNING - No data received from MT5
+2025-10-08 11:43:21,325 - WARNING - No data received from MT5
+2025-10-08 11:43:30,943 - WARNING - No data received from MT5
+2025-10-08 11:43:31,326 - WARNING - No data received from MT5
+2025-10-08 11:43:40,944 - WARNING - No data received from MT5
+2025-10-08 11:43:41,328 - WARNING - No data received from MT5
+2025-10-08 11:43:50,945 - WARNING - No data received from MT5
+2025-10-08 11:43:51,331 - WARNING - No data received from MT5
+2025-10-08 11:44:00,948 - WARNING - No data received from MT5
+2025-10-08 11:44:01,334 - WARNING - No data received from MT5
+2025-10-08 11:44:10,949 - WARNING - No data received from MT5
+2025-10-08 11:44:11,336 - WARNING - No data received from MT5
+2025-10-08 11:44:20,950 - WARNING - No data received from MT5
+2025-10-08 11:44:21,337 - WARNING - No data received from MT5
+2025-10-08 11:44:30,951 - WARNING - No data received from MT5
+2025-10-08 11:44:31,337 - WARNING - No data received from MT5
+2025-10-08 11:44:40,952 - WARNING - No data received from MT5
+2025-10-08 11:44:41,338 - WARNING - No data received from MT5
+2025-10-08 11:44:50,953 - WARNING - No data received from MT5
+2025-10-08 11:44:51,339 - WARNING - No data received from MT5
+2025-10-08 11:45:00,954 - WARNING - No data received from MT5
+2025-10-08 11:45:01,340 - WARNING - No data received from MT5
+2025-10-08 11:45:10,955 - WARNING - No data received from MT5
+2025-10-08 11:45:11,341 - WARNING - No data received from MT5
+2025-10-08 11:45:20,956 - WARNING - No data received from MT5
+2025-10-08 11:45:21,342 - WARNING - No data received from MT5
+2025-10-08 11:45:30,958 - WARNING - No data received from MT5
+2025-10-08 11:45:31,343 - WARNING - No data received from MT5
+2025-10-08 11:45:40,959 - WARNING - No data received from MT5
+2025-10-08 11:45:41,344 - WARNING - No data received from MT5
+2025-10-08 11:45:50,960 - WARNING - No data received from MT5
+2025-10-08 11:45:51,345 - WARNING - No data received from MT5
+2025-10-08 11:46:00,961 - WARNING - No data received from MT5
+2025-10-08 11:46:01,346 - WARNING - No data received from MT5
+2025-10-08 11:46:10,962 - WARNING - No data received from MT5
+2025-10-08 11:46:11,347 - WARNING - No data received from MT5
+2025-10-08 11:46:20,963 - WARNING - No data received from MT5
+2025-10-08 11:46:21,348 - WARNING - No data received from MT5
+2025-10-08 11:46:30,964 - WARNING - No data received from MT5
+2025-10-08 11:46:31,349 - WARNING - No data received from MT5
+2025-10-08 11:46:40,965 - WARNING - No data received from MT5
+2025-10-08 11:46:41,350 - WARNING - No data received from MT5
+2025-10-08 11:46:50,965 - WARNING - No data received from MT5
+2025-10-08 11:46:51,351 - WARNING - No data received from MT5
+2025-10-08 11:47:00,966 - WARNING - No data received from MT5
+2025-10-08 11:47:01,352 - WARNING - No data received from MT5
+2025-10-08 11:47:10,967 - WARNING - No data received from MT5
+2025-10-08 11:47:11,353 - WARNING - No data received from MT5
+2025-10-08 11:47:20,968 - WARNING - No data received from MT5
+2025-10-08 11:47:21,354 - WARNING - No data received from MT5
+2025-10-08 11:47:30,968 - WARNING - No data received from MT5
+2025-10-08 11:47:31,354 - WARNING - No data received from MT5
+2025-10-08 11:47:40,969 - WARNING - No data received from MT5
+2025-10-08 11:47:41,355 - WARNING - No data received from MT5
+2025-10-08 11:47:50,970 - WARNING - No data received from MT5
+2025-10-08 11:47:51,356 - WARNING - No data received from MT5
+2025-10-08 11:48:00,971 - WARNING - No data received from MT5
+2025-10-08 11:48:01,357 - WARNING - No data received from MT5
+2025-10-08 11:48:10,971 - WARNING - No data received from MT5
+2025-10-08 11:48:11,358 - WARNING - No data received from MT5
+2025-10-08 11:48:20,971 - WARNING - No data received from MT5
+2025-10-08 11:48:21,358 - WARNING - No data received from MT5
+2025-10-08 11:48:30,972 - WARNING - No data received from MT5
+2025-10-08 11:48:31,359 - WARNING - No data received from MT5
+2025-10-08 11:48:40,973 - WARNING - No data received from MT5
+2025-10-08 11:48:41,360 - WARNING - No data received from MT5
+2025-10-08 11:48:50,974 - WARNING - No data received from MT5
+2025-10-08 11:48:51,361 - WARNING - No data received from MT5
+2025-10-08 11:49:00,974 - WARNING - No data received from MT5
+2025-10-08 11:49:01,362 - WARNING - No data received from MT5
+2025-10-08 11:49:10,976 - WARNING - No data received from MT5
+2025-10-08 11:49:11,363 - WARNING - No data received from MT5
+2025-10-08 11:49:20,976 - WARNING - No data received from MT5
+2025-10-08 11:49:21,364 - WARNING - No data received from MT5
+2025-10-08 11:49:30,977 - WARNING - No data received from MT5
+2025-10-08 11:49:31,364 - WARNING - No data received from MT5
+2025-10-08 11:49:40,978 - WARNING - No data received from MT5
+2025-10-08 11:49:41,366 - WARNING - No data received from MT5
+2025-10-08 11:49:50,978 - WARNING - No data received from MT5
+2025-10-08 11:49:51,368 - WARNING - No data received from MT5
+2025-10-08 11:50:00,979 - WARNING - No data received from MT5
+2025-10-08 11:50:01,368 - WARNING - No data received from MT5
+2025-10-08 11:50:11,015 - WARNING - No data received from MT5
+2025-10-08 11:50:11,369 - WARNING - No data received from MT5
+2025-10-08 11:50:21,017 - WARNING - No data received from MT5
+2025-10-08 11:50:21,370 - WARNING - No data received from MT5
+2025-10-08 11:50:31,018 - WARNING - No data received from MT5
+2025-10-08 11:50:31,370 - WARNING - No data received from MT5
+2025-10-08 11:50:41,018 - WARNING - No data received from MT5
+2025-10-08 11:50:41,371 - WARNING - No data received from MT5
+2025-10-08 11:50:51,019 - WARNING - No data received from MT5
+2025-10-08 11:50:51,372 - WARNING - No data received from MT5
+2025-10-08 11:51:01,019 - WARNING - No data received from MT5
+2025-10-08 11:51:01,372 - WARNING - No data received from MT5
+2025-10-08 11:51:11,020 - WARNING - No data received from MT5
+2025-10-08 11:51:11,373 - WARNING - No data received from MT5
+2025-10-08 11:51:21,021 - WARNING - No data received from MT5
+2025-10-08 11:51:21,374 - WARNING - No data received from MT5
+2025-10-08 11:51:31,022 - WARNING - No data received from MT5
+2025-10-08 11:51:31,374 - WARNING - No data received from MT5
+2025-10-08 11:51:41,023 - WARNING - No data received from MT5
+2025-10-08 11:51:41,375 - WARNING - No data received from MT5
+2025-10-08 11:51:51,024 - WARNING - No data received from MT5
+2025-10-08 11:51:51,376 - WARNING - No data received from MT5
+2025-10-08 11:52:01,025 - WARNING - No data received from MT5
+2025-10-08 11:52:01,377 - WARNING - No data received from MT5
+2025-10-08 11:52:11,026 - WARNING - No data received from MT5
+2025-10-08 11:52:11,378 - WARNING - No data received from MT5
+2025-10-08 11:52:21,026 - WARNING - No data received from MT5
+2025-10-08 11:52:21,379 - WARNING - No data received from MT5
+2025-10-08 11:52:31,028 - WARNING - No data received from MT5
+2025-10-08 11:52:31,380 - WARNING - No data received from MT5
+2025-10-08 11:52:41,029 - WARNING - No data received from MT5
+2025-10-08 11:52:41,380 - WARNING - No data received from MT5
+2025-10-08 11:52:51,030 - WARNING - No data received from MT5
+2025-10-08 11:52:51,381 - WARNING - No data received from MT5
+2025-10-08 11:53:01,030 - WARNING - No data received from MT5
+2025-10-08 11:53:01,383 - WARNING - No data received from MT5
+2025-10-08 11:53:11,032 - WARNING - No data received from MT5
+2025-10-08 11:53:11,383 - WARNING - No data received from MT5
+2025-10-08 11:53:21,035 - WARNING - No data received from MT5
+2025-10-08 11:53:21,384 - WARNING - No data received from MT5
+2025-10-08 11:53:31,036 - WARNING - No data received from MT5
+2025-10-08 11:53:31,385 - WARNING - No data received from MT5
+2025-10-08 11:53:41,037 - WARNING - No data received from MT5
+2025-10-08 11:53:41,386 - WARNING - No data received from MT5
+2025-10-08 11:53:51,038 - WARNING - No data received from MT5
+2025-10-08 11:53:51,386 - WARNING - No data received from MT5
+2025-10-08 11:54:01,038 - WARNING - No data received from MT5
+2025-10-08 11:54:01,387 - WARNING - No data received from MT5
+2025-10-08 11:54:11,039 - WARNING - No data received from MT5
+2025-10-08 11:54:11,388 - WARNING - No data received from MT5
+2025-10-08 11:54:21,040 - WARNING - No data received from MT5
+2025-10-08 11:54:21,389 - WARNING - No data received from MT5
+2025-10-08 11:54:31,040 - WARNING - No data received from MT5
+2025-10-08 11:54:31,390 - WARNING - No data received from MT5
+2025-10-08 11:54:41,041 - WARNING - No data received from MT5
+2025-10-08 11:54:41,391 - WARNING - No data received from MT5
+2025-10-08 11:54:51,043 - WARNING - No data received from MT5
+2025-10-08 11:54:51,392 - WARNING - No data received from MT5
+2025-10-08 11:55:01,044 - WARNING - No data received from MT5
+2025-10-08 11:55:01,392 - WARNING - No data received from MT5
+2025-10-08 11:55:11,044 - WARNING - No data received from MT5
+2025-10-08 11:55:11,393 - WARNING - No data received from MT5
+2025-10-08 11:55:21,045 - WARNING - No data received from MT5
+2025-10-08 11:55:21,394 - WARNING - No data received from MT5
+2025-10-08 11:55:31,046 - WARNING - No data received from MT5
+2025-10-08 11:55:31,395 - WARNING - No data received from MT5
+2025-10-08 11:55:41,047 - WARNING - No data received from MT5
+2025-10-08 11:55:41,396 - WARNING - No data received from MT5
+2025-10-08 11:55:51,048 - WARNING - No data received from MT5
+2025-10-08 11:55:51,397 - WARNING - No data received from MT5
+2025-10-08 11:56:01,049 - WARNING - No data received from MT5
+2025-10-08 11:56:01,398 - WARNING - No data received from MT5
+2025-10-08 11:56:11,049 - WARNING - No data received from MT5
+2025-10-08 11:56:11,398 - WARNING - No data received from MT5
+2025-10-08 11:56:21,050 - WARNING - No data received from MT5
+2025-10-08 11:56:21,400 - WARNING - No data received from MT5
+2025-10-08 11:56:31,051 - WARNING - No data received from MT5
+2025-10-08 11:56:31,400 - WARNING - No data received from MT5
+2025-10-08 11:56:41,085 - WARNING - No data received from MT5
+2025-10-08 11:56:41,401 - WARNING - No data received from MT5
+2025-10-08 11:56:51,087 - WARNING - No data received from MT5
+2025-10-08 11:56:51,402 - WARNING - No data received from MT5
+2025-10-08 11:57:01,092 - WARNING - No data received from MT5
+2025-10-08 11:57:01,402 - WARNING - No data received from MT5
+2025-10-08 11:57:11,093 - WARNING - No data received from MT5
+2025-10-08 11:57:11,404 - WARNING - No data received from MT5
+2025-10-08 11:57:21,094 - WARNING - No data received from MT5
+2025-10-08 11:57:21,405 - WARNING - No data received from MT5
+2025-10-08 11:57:31,095 - WARNING - No data received from MT5
+2025-10-08 11:57:31,405 - WARNING - No data received from MT5
+2025-10-08 11:57:41,096 - WARNING - No data received from MT5
+2025-10-08 11:57:41,406 - WARNING - No data received from MT5
+2025-10-08 11:57:51,097 - WARNING - No data received from MT5
+2025-10-08 11:57:51,407 - WARNING - No data received from MT5
+2025-10-08 11:58:01,098 - WARNING - No data received from MT5
+2025-10-08 11:58:01,408 - WARNING - No data received from MT5
+2025-10-08 11:58:11,099 - WARNING - No data received from MT5
+2025-10-08 11:58:11,409 - WARNING - No data received from MT5
+2025-10-08 11:58:21,099 - WARNING - No data received from MT5
+2025-10-08 11:58:21,410 - WARNING - No data received from MT5
+2025-10-08 11:58:31,100 - WARNING - No data received from MT5
+2025-10-08 11:58:31,410 - WARNING - No data received from MT5
+2025-10-08 11:58:41,101 - WARNING - No data received from MT5
+2025-10-08 11:58:41,411 - WARNING - No data received from MT5
+2025-10-08 11:58:51,102 - WARNING - No data received from MT5
+2025-10-08 11:58:51,412 - WARNING - No data received from MT5
+2025-10-08 11:59:01,103 - WARNING - No data received from MT5
+2025-10-08 11:59:01,413 - WARNING - No data received from MT5
+2025-10-08 11:59:11,104 - WARNING - No data received from MT5
+2025-10-08 11:59:11,418 - WARNING - No data received from MT5
+2025-10-08 11:59:21,105 - WARNING - No data received from MT5
+2025-10-08 11:59:21,419 - WARNING - No data received from MT5
+2025-10-08 11:59:31,105 - WARNING - No data received from MT5
+2025-10-08 11:59:31,420 - WARNING - No data received from MT5
+2025-10-08 11:59:41,106 - WARNING - No data received from MT5
+2025-10-08 11:59:41,422 - WARNING - No data received from MT5
+2025-10-08 11:59:51,107 - WARNING - No data received from MT5
+2025-10-08 11:59:51,423 - WARNING - No data received from MT5
+2025-10-08 12:00:01,107 - WARNING - No data received from MT5
+2025-10-08 12:00:01,423 - WARNING - No data received from MT5
+2025-10-08 12:00:11,108 - WARNING - No data received from MT5
+2025-10-08 12:00:11,424 - WARNING - No data received from MT5
+2025-10-08 12:00:21,109 - WARNING - No data received from MT5
+2025-10-08 12:00:21,424 - WARNING - No data received from MT5
+2025-10-08 12:00:31,110 - WARNING - No data received from MT5
+2025-10-08 12:00:31,425 - WARNING - No data received from MT5
+2025-10-08 12:00:41,111 - WARNING - No data received from MT5
+2025-10-08 12:00:41,426 - WARNING - No data received from MT5
+2025-10-08 12:00:51,112 - WARNING - No data received from MT5
+2025-10-08 12:00:51,427 - WARNING - No data received from MT5
+2025-10-08 12:01:01,113 - WARNING - No data received from MT5
+2025-10-08 12:01:01,428 - WARNING - No data received from MT5
+2025-10-08 12:01:11,113 - WARNING - No data received from MT5
+2025-10-08 12:01:11,429 - WARNING - No data received from MT5
+2025-10-08 12:01:21,114 - WARNING - No data received from MT5
+2025-10-08 12:01:21,430 - WARNING - No data received from MT5
+2025-10-08 12:01:31,115 - WARNING - No data received from MT5
+2025-10-08 12:01:31,431 - WARNING - No data received from MT5
+2025-10-08 12:01:41,116 - WARNING - No data received from MT5
+2025-10-08 12:01:41,432 - WARNING - No data received from MT5
+2025-10-08 12:01:51,117 - WARNING - No data received from MT5
+2025-10-08 12:01:51,433 - WARNING - No data received from MT5
+2025-10-08 12:02:01,118 - WARNING - No data received from MT5
+2025-10-08 12:02:01,434 - WARNING - No data received from MT5
+2025-10-08 12:02:11,118 - WARNING - No data received from MT5
+2025-10-08 12:02:11,436 - WARNING - No data received from MT5
+2025-10-08 12:02:21,119 - WARNING - No data received from MT5
+2025-10-08 12:02:21,436 - WARNING - No data received from MT5
+2025-10-08 12:02:31,120 - WARNING - No data received from MT5
+2025-10-08 12:02:31,438 - WARNING - No data received from MT5
+2025-10-08 12:02:41,121 - WARNING - No data received from MT5
+2025-10-08 12:02:41,438 - WARNING - No data received from MT5
+2025-10-08 12:02:51,122 - WARNING - No data received from MT5
+2025-10-08 12:02:51,440 - WARNING - No data received from MT5
+2025-10-08 12:03:01,123 - WARNING - No data received from MT5
+2025-10-08 12:03:01,440 - WARNING - No data received from MT5
+2025-10-08 12:03:11,124 - WARNING - No data received from MT5
+2025-10-08 12:03:11,441 - WARNING - No data received from MT5
+2025-10-08 12:03:21,125 - WARNING - No data received from MT5
+2025-10-08 12:03:21,443 - WARNING - No data received from MT5
+2025-10-08 12:03:31,126 - WARNING - No data received from MT5
+2025-10-08 12:03:31,443 - WARNING - No data received from MT5
+2025-10-08 12:03:41,127 - WARNING - No data received from MT5
+2025-10-08 12:03:41,444 - WARNING - No data received from MT5
+2025-10-08 12:03:51,127 - WARNING - No data received from MT5
+2025-10-08 12:03:51,445 - WARNING - No data received from MT5
+2025-10-08 12:04:01,128 - WARNING - No data received from MT5
+2025-10-08 12:04:01,446 - WARNING - No data received from MT5
+2025-10-08 12:04:11,129 - WARNING - No data received from MT5
+2025-10-08 12:04:11,447 - WARNING - No data received from MT5
+2025-10-08 12:04:21,130 - WARNING - No data received from MT5
+2025-10-08 12:04:21,448 - WARNING - No data received from MT5
+2025-10-08 12:04:31,131 - WARNING - No data received from MT5
+2025-10-08 12:04:31,449 - WARNING - No data received from MT5
+2025-10-08 12:04:41,132 - WARNING - No data received from MT5
+2025-10-08 12:04:41,449 - WARNING - No data received from MT5
+2025-10-08 12:04:51,133 - WARNING - No data received from MT5
+2025-10-08 12:04:51,450 - WARNING - No data received from MT5
+2025-10-08 12:05:01,134 - WARNING - No data received from MT5
+2025-10-08 12:05:01,452 - WARNING - No data received from MT5
+2025-10-08 12:05:11,135 - WARNING - No data received from MT5
+2025-10-08 12:05:11,453 - WARNING - No data received from MT5
+2025-10-08 12:05:21,136 - WARNING - No data received from MT5
+2025-10-08 12:05:21,453 - WARNING - No data received from MT5
+2025-10-08 12:05:31,137 - WARNING - No data received from MT5
+2025-10-08 12:05:31,454 - WARNING - No data received from MT5
+2025-10-08 12:05:41,137 - WARNING - No data received from MT5
+2025-10-08 12:05:41,455 - WARNING - No data received from MT5
+2025-10-08 12:05:51,162 - WARNING - No data received from MT5
+2025-10-08 12:05:51,465 - WARNING - No data received from MT5
+2025-10-08 12:06:01,163 - WARNING - No data received from MT5
+2025-10-08 12:06:01,466 - WARNING - No data received from MT5
+2025-10-08 12:06:11,163 - WARNING - No data received from MT5
+2025-10-08 12:06:11,467 - WARNING - No data received from MT5
+2025-10-08 12:06:21,165 - WARNING - No data received from MT5
+2025-10-08 12:06:21,468 - WARNING - No data received from MT5
+2025-10-08 12:06:31,166 - WARNING - No data received from MT5
+2025-10-08 12:06:31,469 - WARNING - No data received from MT5

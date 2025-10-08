@@ -1,0 +1,23 @@
+# Core numerical and data tools
+pandas>=2.2.0
+numpy>=1.26.0
+matplotlib>=3.8.0
+pytz>=2024.1
+
+# MT5 API
+MetaTrader5>=5.0.45
+
+# Machine learning / reinforcement learning
+stable-baselines3>=2.3.0
+gymnasium>=0.29.0
+torch>=2.2.0
+tensorboard>=2.16.0
+
+# Parallel env utils
+tqdm>=4.66.0
+
+# File formats
+pyarrow>=15.0.0
+
+# Optional analytics / debug tools
+scikit-learn>=1.5.0
