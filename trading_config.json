@@ -1,7 +1,7 @@
 {
-    "account": 5040990393,
-    "password": "!zKpOhD3",
-    "server": "MetaQuotes-Demo",
+    "account": ,
+    "password": "",
+    "server": "",
     "symbol": "XAUUSD",
     "lot_size": 0.2,
     "max_risk_per_trade": 0.02,
