@@ -26,6 +26,9 @@ ppo/
 - **Performance Tracking**: Detailed metrics and visualization
 - **Configuration Management**: Secure credential handling and parameter management
 
+##Current Status: Experimental / In-Progress 
+This repository represents the initial phase of my Master's Thesis research. While the architecture is fully implemented, current work is focused on resolving reward sparsity and stabilizing the policy gradient in high-volatility gold markets.
+
 ## Installation
 
 1. **Clone the repository**:
