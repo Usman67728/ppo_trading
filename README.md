@@ -25,6 +25,8 @@ ppo/
 - **Risk Management**: Built-in position sizing, stop-loss, and drawdown controls
 - **Performance Tracking**: Detailed metrics and visualization
 - **Configuration Management**: Secure credential handling and parameter management
+- **Clipped Surrogate Objective**: Utilizes PPO’s clipping mechanism ($\epsilon=0.2$) to ensure stable policy updates in non-stationary environments5.
+- **Generalized Advantage Estimation (GAE)**: Implemented to balance the bias-variance tradeoff in the advantage function6.
 
 ## Current Status: Experimental / In-Progress 
 This repository represents the initial phase of my Master's Thesis research. While the architecture is fully implemented, current work is focused on resolving reward sparsity and stabilizing the policy gradient in high-volatility gold markets.
